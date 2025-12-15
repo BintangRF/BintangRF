@@ -28,55 +28,55 @@ Focused on clean UI, solid frontend architecture, and seamless API integration.
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=html" width="42" />
       <br><b>HTML</b>
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=css" width="42" />
       <br><b>CSS</b>
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=js" width="42" />
       <br><b>JavaScript</b>
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=ts" width="42" />
       <br><b>TypeScript</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=react" width="42" />
       <br><b>React</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=vue" width="42" />
       <br><b>Vue</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=next" width="42" />
       <br><b>Next.js</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=nuxt" width="42" />
       <br><b>Nuxt.js</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="42" />
       <br><b>Tailwind</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="42" />
       <br><b>Bootstrap</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="42" />
       <br><b>Laravel</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" />
+      <img src="https://skillicons.dev/icons?i=express" width="42" />
       <br><b>Express.js</b>
     </td>
   </tr>
