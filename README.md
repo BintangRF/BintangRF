@@ -165,7 +165,29 @@ Focused on clean UI, solid frontend architecture, and seamless API integration.
 
 ## 📫 Contact
 
-- 📧 Email: bintangrama777@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/bintang-ramadhana/
-- 🌐 Portfolio: https://bintang-ramadhana.vercel.app/
-- 📎 Resume: https://bintang-ramadhana.vercel.app/docs/CV-BintangRF.pdf
+<ul>
+  <li>
+    📧 Email:
+    <a href="bintangrama777@gmail.com" target="_blank" rel="noopener noreferrer">
+      bintangrama777@gmail.com
+    </a>
+  </li>
+  <li>
+    💼 LinkedIn:
+    <a href="https://www.linkedin.com/in/bintang-ramadhana/" target="_blank" rel="noopener noreferrer">
+      linkedin.com/in/bintang-ramadhana
+    </a>
+  </li>
+  <li>
+    🌐 Portfolio:
+    <a href="https://bintang-ramadhana.vercel.app/" target="_blank" rel="noopener noreferrer">
+      bintang-ramadhana.vercel.app
+    </a>
+  </li>
+  <li>
+    📄 CV:
+    <a href="https://bintang-ramadhana.vercel.app/docs/CV-BintangRF.pdf" target="_blank" rel="noopener noreferrer">
+      Resume / CV (PDF)
+    </a>
+  </li>
+</ul>
