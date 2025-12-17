@@ -99,56 +99,61 @@ Focused on clean UI, solid frontend architecture, and seamless API integration.
 
 <table>
   <tr>
-    <td width="18%" align="center"><br><b>2021–2024</b></td>
+    <td width="18%" align="center"><b>2021 – 2024</b></td>
     <td>
-      <b>Self-Taught Web Development Student</b><br>
-      <i>Building strong foundations</i><br><br>
-      Learned HTML, CSS, and JavaScript from scratch. Explored React, React Native, Express, and MongoDB while developing problem-solving skills, self-learning discipline, and adaptability to new technologies.
+      <b>Self-Taught Web Development Student</b><br><br>
+      <b>Tech Stack:</b> HTML, CSS, JavaScript, React, Vue, Laravel, Next.js, Nuxt.js, React Native, Express.js, MongoDB<br><br>
+      Learned and applied modern web technologies by building static websites, SPA applications, and simple full-stack projects. Developed strong problem-solving skills through independent debugging and continuous self-learning.
     </td>
   </tr>
 
   <tr>
-    <td align="center"><br><b>Aug–Dec 2023</b></td>
+    <td align="center"><b>Aug – Dec 2023</b></td>
     <td>
-      <b>MSIB Kampus Merdeka — PT Revolusi Cita Edukasi</b><br>
-      <i>Full-Stack Exposure</i><br><br>
-      Worked on real project-based web development using HTML, CSS, JavaScript, Express.js, and MySQL. Implemented routing, REST APIs, and basic authentication in a collaborative industry-style environment.
+      <b>Fullstack Developer — MSIB Kampus Merdeka</b><br>
+      <i>PT Revolusi Cita Edukasi</i><br><br>
+      <b>Tech Stack:</b> HTML, CSS, JavaScript, Express.js, MySQL, Midtrans<br><br>
+      Worked on a team-based mental health consultation platform, developing backend APIs, handling routing and validation, integrating frontend features, and implementing payment flow using Midtrans.
     </td>
   </tr>
 
   <tr>
-    <td align="center"><br><b>May–Oct 2024</b></td>
+    <td align="center"><b>May – Oct 2024</b></td>
     <td>
-      <b>Frontend Developer Intern — PT Javan Cipta Solusi</b><br>
-      <i>Internal systems & UI/UX</i><br><br>
-      Developed and maintained internal platforms such as permit management systems and QA tools. Improved UI/UX, fixed bugs, optimized responsiveness, and collaborated closely with backend and QA teams.
+      <b>Frontend Developer Intern</b><br>
+      <i>PT Javan Cipta Solusi</i><br><br>
+      <b>Tech Stack:</b> React, Vue, Laravel<br><br>
+      Developed and maintained internal systems including permit management, QA bug tracking, and case monitoring tools while collaborating closely with backend developers.
     </td>
   </tr>
 
   <tr>
-    <td align="center"><br><b>Jan–Apr 2025</b></td>
+    <td align="center"><b>Jan – Apr 2025</b></td>
     <td>
-      <b>Frontend Developer Intern — Yayasan Maqdis</b><br>
-      <i>Product-focused frontend</i><br><br>
-      Built UI components for an online Quran platform with premium features. Integrated APIs, authentication flows, and payment-related interfaces while ensuring smooth user experience across devices.
+      <b>Frontend Developer Intern</b><br>
+      <i>Yayasan Maqdis</i><br><br>
+      <b>Tech Stack:</b> React, Midtrans<br><br>
+      Built frontend features for an online Quran platform with premium access, integrated authentication and content APIs, handled payment-related user flows, and ensured responsive UI.
     </td>
   </tr>
 
   <tr>
-    <td align="center"><br><b>Apr–Sep 2025</b></td>
+    <td align="center"><b>Apr – Sep 2025</b></td>
     <td>
-      <b>Frontend Developer Intern — Kawan Kerja</b><br>
-      <i>Lightweight & efficient builds</i><br><br>
-      Created simple and performant websites such as digital wedding invitations and job listing platforms using vanilla HTML, JavaScript, and Tailwind CSS. Focused on clean structure and maintainable code.
+      <b>Frontend Developer Intern</b><br>
+      <i>Kawan Kerja</i><br><br>
+      <b>Tech Stack:</b> HTML, JavaScript, Tailwind CSS<br><br>
+      Developed lightweight and performant websites such as digital wedding invitations and a small job listing platform with focus on clean structure and efficiency.
     </td>
   </tr>
 
   <tr>
-    <td align="center"><br><b>Jul–Oct 2025</b></td>
+    <td align="center"><b>Jul – Oct 2025</b></td>
     <td>
-      <b>Web Developer Intern — Glowup Career Consultant</b><br>
-      <i>Laravel & production readiness</i><br><br>
-      Developed a company profile website using Laravel and reusable Blade components. Assisted with deployment preparation and gained deeper understanding of full-stack integration.
+      <b>Web Developer Intern</b><br>
+      <i>Glowup Career Consultant</i><br><br>
+      <b>Tech Stack:</b> Laravel, Blade, PHP, HTML, CSS<br><br>
+      Developed a company profile website using Laravel and reusable Blade components and assisted with deployment and production readiness.
     </td>
   </tr>
 </table>
