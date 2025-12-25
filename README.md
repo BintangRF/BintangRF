@@ -165,8 +165,13 @@ Focused on clean UI, solid frontend architecture, and seamless API integration.
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BintangRF&show_icons=true&theme=dracula&hide_border=true" />
 </p> -->
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://gh-readme-profile.vercel.app/api?username=BintangRF&theme=catppuccin-mocha" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-profile-card-iota.vercel.app/api/card/BintangRF" />
 </p>
 
 ---
